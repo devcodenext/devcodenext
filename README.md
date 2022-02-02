@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning MERN, System Designs & Databases
 - 💞️ I’m looking to collaborate on my latest product Marketing AI-Automation
-- 📫 How to reach me akshit@uprowerp.com
+- 📫 How to reach me devcodenext@outlook.com
 
 <!---
 devcodenext/devcodenext is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
